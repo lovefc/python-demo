@@ -1,6 +1,6 @@
 ## 利用pytesseract来识别图片
 
-#windows
+## windows
 
 python版本：3.8.5
 
@@ -30,7 +30,7 @@ https://digi.bib.uni-mannheim.de/tesseract/
 
 4.运行`py test.py`代码，应该就能看到识别内容了。
 
-#linux
+## linux
 
 python版本：3.8.10
 
@@ -61,7 +61,7 @@ ubuntu 安装软件后的路径一般都是`/usr/share`,如果不清楚的可以
 4.运行`py test.py`代码，应该就能看到识别内容了。
 
 
-#注意问题
+## 注意问题
 
 识别不是百分百的准确，如果想要正确的识别图片，你需要对图片进行预处理，字符过滤，甚至是模型训练等方法。
 
